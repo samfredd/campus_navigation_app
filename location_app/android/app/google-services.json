@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "940576499143",
+    "project_id": "oou-nav",
+    "storage_bucket": "oou-nav.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:940576499143:android:8b5f4a65deb6edb9b4e5e2",
+        "android_client_info": {
+          "package_name": "com.example.location_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAo2VDc4JOL_9O2tCeIpWL_KXMbCxPbIQU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:940576499143:android:c765db7031826b9cb4e5e2",
+        "android_client_info": {
+          "package_name": "com.example.navigator"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAo2VDc4JOL_9O2tCeIpWL_KXMbCxPbIQU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
