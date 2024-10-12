@@ -1,5 +1,4 @@
 ﻿# campus_navigation_app
-Here's a comprehensive README for your AR Navigation App project:
 
 ---
 
@@ -34,7 +33,7 @@ Prerequisites
  Installation
 1. Clone the Repository:
    
-   git clone https://github.com/yourusername/ar-navigation-app.git
+   git clone https://github.com/samfredd/ar-navigation-app.git
    cd ar-navigation-app
    ```
 
@@ -122,8 +121,6 @@ Contributions are welcome! Please fork the repository and submit a pull request.
 4. Push to the branch: `git push origin my-new-feature`.
 5. Submit a pull request.
 
- License
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
  Contact
 For any questions or inquiries, feel free to contact me at solugbenga393@gmail.com.
